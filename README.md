@@ -10,7 +10,7 @@ third party programming software.
     - `src`
         - CSV files containing repeater configurations
     - `bin`
-        - Binary files for specific radios, including info from the CSV files in
-            `src`
+        - IMG binaries for specific radios, including info from similarly named
+            CSV files in `src`
     - `lib`
         - CSV files used for reference

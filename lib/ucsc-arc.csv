@@ -1,0 +1,13 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL
+0,UCSC,145.31,-,0.6,Tone,94.8,88.5,23,NN,FM,5,,,,,
+1,NOAA SC,162.55,,0,,88.5,88.5,23,NN,FM,5,,,,,
+2,NOAA MY,162.45,,0,,88.5,88.5,23,NN,FM,5,,,,,
+3,NOAA SF,162.4,,0,,88.5,88.5,23,NN,FM,5,,,,,
+4,UCSC PD,155.505,,0,,88.5,88.5,23,NN,FM,5,,,,,
+5,UCSC FD,154.13,,0,,88.5,88.5,23,NN,FM,5,,,,,
+6,SCPD,154.77,,0,,88.5,88.5,23,NN,FM,5,,,,,
+7,SC SHRF,155.565,,0,,88.5,88.5,23,NN,FM,5,,,,,
+8,SC FD,154.325,,0,,88.5,88.5,23,NN,FM,5,,,,,
+9,WB6ECE,441.3,+,5,Tone,100,88.5,23,NN,FM,5,,,,,
+10,WR6AOK,147.12,+,0.6,Tone,94.8,88.5,23,NN,FM,5,,,,,
+11,K6BJ,146.79,-,0.6,Tone,94.8,88.5,23,NN,FM,5,,,,,
