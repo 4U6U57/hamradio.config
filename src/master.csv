@@ -1,5 +1,5 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,
-0,UCSCARC,145.310000,-,0.600000,Tone,94.8,88.5,023,NN,FM,5.00,,,,,,
+0,W6SLG,145.310000,-,0.600000,Tone,94.8,88.5,023,NN,FM,5.00,,,,,,
 1,SALI VL,442.750000,+,5.000000,Tone,110.9,88.5,023,NN,FM,5.00,,,,,,
 2,WB6ECE,441.300000,+,5.000000,Tone,100.0,88.5,023,NN,FM,5.00,,,,,,
 3,S LOREN,147.120000,+,0.600000,Tone,94.8,88.5,023,NN,FM,5.00,,,,,,
